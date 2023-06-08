@@ -2,7 +2,7 @@ Hii there
 
 so if you are reading this i think that you also want to learn julia.
 
-so my name is aman i am currently 14 on 07-06-2023 and will turn 15 on 18th of october, I know 2 programming languages very well which are HTML and CSS and i know some python i wouldnt say i am a proffesional in python but i know it, i speak 3 languages which are English, Hindi, and Gujrati, english is my second language but in am better at writting English than i am in my first language which is Hindi.
+so my name is aman i am currently 14 on 07-06-2023 and will turn 15 on 18th of october, I know 2 programming languages very well which are HTML and CSS and i know some python i wouldnt say i am a proffesional in python but i know it.
 
 i am gonna be covering whatever i learn about julia in this notes i gonna write everything down in a away that even a newbie could understand.
 
@@ -22,6 +22,6 @@ sow while we are in the code file i will be wrttting the instructions in comment
 
 #comments are text which are ignored by julia language
 
-now we can start please go to day - 1
+now we can start please go to chapter 1
 
 ps: you can reach me on viranipaman@gmail.com or you can message on my instagram account @aman_p_virani 

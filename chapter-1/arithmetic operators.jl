@@ -1,4 +1,4 @@
-# This is second file of day 1 please complete printing and variable before this
+# This is second file of chapter 1 please complete printing and variable before this
 
 # Arithmetic Operators
 
